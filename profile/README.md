@@ -2,6 +2,9 @@
 🎓 Выпускной проект в учебном центре Netcracker. Целью проекта было написание RESTful приложения с двумя микросервисами - Angular приложение для frontend-части и SpringBoot приложение для backend-приложения.  
 :books: Основной стек технологий: SpringBoot, PostgreSQL, Angular+Bootstrap, Postman, Heroku  
 
+:computer: [Проект](https://where-coffee-front.herokuapp.com/) [![Heroku](https://heroku-badge.herokuapp.com/?app=where-coffee-front)]  
+:page_facing_up: [Презентация к проекту](https://docs.google.com/presentation/d/1__Q7E-td2dRKTtRE6EVKglGGDCO9bhMaP1ViUOxP9oc/edit?usp=sharing)
+
 :boy: Дмитрий Дементьев и :girl: Анастасия Тищенко
 
 ## Концепция приложения
